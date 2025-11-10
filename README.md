@@ -6,7 +6,7 @@ I'm a passionate Quality Control Lead at [Globant](https://www.globant.com), com
 - 🔭 **Currently working**: QC Lead at Globant, leading testing teams for international clients.
 - 🌱 **Learning:** Automation using API and Web tools (Karate, Playwright, Selenium, Postman).
 - 🎯 **Strengths:** Team management, communication, test planning, and delivering solutions under deadlines.
-- 💼 **Experience:** +7 years in Software Testing, working in Agile environments for projects in finance, insurance, telecommunications, and e-commerce.
+- 💼 **Experience:** +7 years in Software Testing, working in Agile environments for projects in HealthCare.
 
 ### 👯 I'm looking to collaborate on...
 - Automation projects (API/Web)
