@@ -11,7 +11,7 @@ I'm a passionate Quality Control Lead at [Globant](https://www.globant.com), com
 ### 👯 I'm looking to collaborate on...
 - Automation projects (API/Web)
 - Improving testing strategies
-- 
+  
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/tomaslissarrague)
 - Email: tomi.lissarrague93@gmail.com
