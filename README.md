@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there! 👋 I'm Tomas Lissarrague
 
-<!--
-**tomilissa/tomilissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Quality Control Lead at [Globant](https://www.globant.com), committed to delivering high-quality software products and building collaborative teams.
 
-Here are some ideas to get you started:
+### 👨‍💻 About me
+- 🔭 **Currently working**: QC Lead at Globant, leading testing teams for international clients.
+- 🌱 **Learning:** Automation using API and Web tools (Karate, Playwright, Selenium, Postman).
+- 🎯 **Strengths:** Team management, communication, test planning, and delivering solutions under deadlines.
+- 💼 **Experience:** +7 years in Software Testing, working in Agile environments for projects in finance, insurance, telecommunications, and e-commerce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 I'm looking to collaborate on...
+- Automation projects (API/Web)
+- Improving testing strategies
+- 
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/tomaslissarrague)
+- Email: tomi.lissarrague93@gmail.com
